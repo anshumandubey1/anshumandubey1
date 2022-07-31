@@ -1,4 +1,4 @@
-<img alt="cover" src="https://raw.githubusercontent.com/AnshumanDubey1999/AnshumanDubey1999/master/title.gif" height="160px" width="1400px" />
+<img alt="cover" src="https://raw.githubusercontent.com/AnshumanDubey1999/AnshumanDubey1999/master/title.gif" width="100%" />
 
 ###  Hi there, I am Anshuman Dubey :wave:
 ## I am a passionate backend developer from India
